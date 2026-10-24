@@ -116,3 +116,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <p align="center">
   Developed with ❤️ by <strong>PuffxPay</strong>
 </p>
+
+### Additional contact details
+
+- 💬 WhatsApp: [+91 7354336624](https://wa.me/917354336624)
+
+## ⭐️ Give a Star
+
+If you found this project useful, please consider giving it a star on GitHub to support its development.
