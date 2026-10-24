@@ -79,7 +79,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   Need help or want to report an issue?<br>
   🌐 <strong>Website:</strong> <a href="https://puffxhost.com/contact" target="_blank">https://puffxhost.com/contact</a><br>
   📧 <strong>Email:</strong> <a href="mailto:support@puffxhost.in">support@puffxhost.in</a><br>
-  📞 <strong>WhatsApp:</strong> <a href="https://wa.me/918602967573" target="_blank">+91 8602967573</a>
+  📞 <strong>Call:</strong> <a href="https://wa.me/918602967573" target="_blank">+91 8602967573</a><br>
+  💬 <strong>WhatsApp:</strong> <a href="https://wa.me/917354336624" target="_blank">+91 7354336624</a>
 </p>
 
 <h2>📜 License</h2>
@@ -116,11 +117,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <p align="center">
   Developed with ❤️ by <strong>PuffxPay</strong>
 </p>
-
-### Additional contact details
-
-- 💬 WhatsApp: [+91 7354336624](https://wa.me/917354336624)
-
-## ⭐️ Give a Star
-
-If you found this project useful, please consider giving it a star on GitHub to support its development.
